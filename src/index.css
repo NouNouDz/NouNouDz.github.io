@@ -1,13 +1,37 @@
+:root {
+  color-scheme: light;
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  --bg: #0C0C0C;
+  --text: #FFFFFF;
+  --stext: #000000;
+  --blue: #557AFF;
+  --secondary: #EDEDED;
+  --main: #0075FF;
+}
+body.light {
+  --bg: #EDEDED;
+  --text: #000000;
+  --stext: #FFFFFF;
+  --blue: #557AFF;
+  --secondary: #0C0C0C;
+  --main: #0075FF;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  margin: 0;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Montserrat', sans-serif;
+  height: 100vh;
+}
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+.scroll-content {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+button {
+  cursor: pointer;
 }
