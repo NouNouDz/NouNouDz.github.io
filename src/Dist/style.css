@@ -1,4 +1,4 @@
-.contact-section {
+/*.contact-section {
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -107,9 +107,6 @@
 }
 .circles.hoverd .circle {
   transform: scale(1);
-}
-.circles.hoverd .circle:nth-child(1) {
-
 }
 .circles.hoverd .circle:nth-child(2) {
   transform: scale(.4);
@@ -754,4 +751,4 @@
   .c {
     padding: 2rem;
   }
-}
+}*/

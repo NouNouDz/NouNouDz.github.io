@@ -186,20 +186,6 @@ export default function Homev2() {
         </button>
         </div>
     </div>
-
-    {/* <h1 className="outter">GOVNCY</h1> */}
-
-    {/* <div className="container">
-      <div className="panel">
-        <h1>WEBSITES</h1>
-      </div>
-      <div className="panel">
-        <h1>APPLICATIONS</h1>
-      </div>
-      <div className="panel">
-        <h1>BRANDING</h1>
-      </div>
-    </div> */}
     <div className="contact-section">
       <div className={`circles${hover? " hoverd": ""}`}>
         <div className="circle"></div>

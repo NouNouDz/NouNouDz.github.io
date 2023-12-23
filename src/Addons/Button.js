@@ -1,5 +1,5 @@
 import { gsap } from "gsap";
-import { useEffect, useId, useRef, useState } from "react"
+import { useEffect, useId, useRef } from "react"
 
 export default function Button ({ children, isMagnent = true, style={width: 100, height: 100}, className, parentClass ="", ...props }) {
   const ref = useRef()
