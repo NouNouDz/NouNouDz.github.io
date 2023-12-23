@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56d929e7.css",
+    "main.js": "/static/js/main.d9037dfe.js",
+    "static/media/flexy.png": "/static/media/flexy.808b36f036967b5c046e.png",
+    "static/media/govncy.png": "/static/media/govncy.c2d91c99003c66cdaf3a.png",
+    "static/media/ardev.png": "/static/media/ardev.f27fa8339bdeaa3490b2.png",
+    "static/media/modern.png": "/static/media/modern.360f926284bbe6d34143.png",
+    "static/media/aliafy.png": "/static/media/aliafy.8491aaf0988696aed3c4.png",
+    "static/media/fit.png": "/static/media/fit.67dfab735799ec531f14.png",
+    "static/media/bot.png": "/static/media/bot.a66af1865f0d9db8873c.png",
+    "static/media/planet.png": "/static/media/planet.7aa5070fa8ed4b27923f.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.56d929e7.css",
+    "static/js/main.d9037dfe.js"
+  ]
+}
