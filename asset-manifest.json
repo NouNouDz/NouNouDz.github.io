@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7654c6f2.css",
-    "main.js": "/static/js/main.d9037dfe.js",
+    "main.js": "/static/js/main.952743ee.js",
     "static/media/flexy.png": "/static/media/flexy.808b36f036967b5c046e.png",
     "static/media/govncy.png": "/static/media/govncy.c2d91c99003c66cdaf3a.png",
     "static/media/ardev.png": "/static/media/ardev.f27fa8339bdeaa3490b2.png",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.7654c6f2.css",
-    "static/js/main.d9037dfe.js"
+    "static/js/main.952743ee.js"
   ]
 }
